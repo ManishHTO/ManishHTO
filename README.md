@@ -1,4 +1,4 @@
-# Manish
+# Manish Choudhary
 
 👋 Hi there! I'm Manish, a Fullstack developer passionate about [Your Interests].
 
