@@ -17,19 +17,12 @@
 
 ## 🌐 Connect with Me
 
-- [LinkedIn](Your LinkedIn Profile URL)
-- [Twitter](Your Twitter Profile URL)
-- [Personal Website/Blog](Your Website/Blog URL)
-- [Email](Your Email Address)
+- [LinkedIn]( https://www.linkedin.com/in/manish208/ )
+- [Email](manishchoudhary208@gmail.com)
 
 ## 📊 GitHub Stats
 
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&count_private=true&hide=prs,issues&theme=radical)](https://github.com/YourGitHubUsername)
+[GitHub](https://github.com/ManishHTO)
 
-## 📝 Latest Blog Posts
-
-- [Title of Blog Post 1](Link to Blog Post 1)
-- [Title of Blog Post 2](Link to Blog Post 2)
-- ...
 
 Feel free to reach out and connect! 😊
